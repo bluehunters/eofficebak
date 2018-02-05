@@ -1,4 +1,7 @@
 # eofficebak
+
+利用python备份泛微OA文件和数据库
+
 * python 3.0+
 * winrar 
 ```
