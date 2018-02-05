@@ -8,7 +8,7 @@ days=3
 #DB user
 root='root'
 #DB Password
-password='weoffice'
+password='passeoffice'
 dbname='eoffice'
 eofficepath='D:\\eoffice\\'
 bakpath='d:\\oabak\\'
